@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="assets/blairforce1.jpg" alt="blairforce1" width="220">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/blairforce1-dark.png">
+    <img src="assets/blairforce1-light.jpg" alt="blairforce1" width="220">
+  </picture>
 </div>
 
 <h3 align="center">Platform engineering, GitOps, and agentic delivery</h3>
