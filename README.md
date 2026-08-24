@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/blairforce1-dark.png">
-    <img src="assets/blairforce1-light.jpg" alt="blairforce1" width="220">
+    <img src="assets/blairforce1-light.png" alt="blairforce1" width="220">
   </picture>
 </div>
 
