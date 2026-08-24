@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <img src="assets/blairforce1.jpg" alt="blairforce1" width="220">
+</div>
 
-<!--
-**blairforce1/blairforce1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Platform engineering, GitOps, and agentic delivery</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build the boring infrastructure that lets interesting things ship safely: declarative
+environments, deterministic pipelines, and AI agents that operate inside guardrails rather
+than around them.
+
+Most of my time goes on three things:
+
+- **GitOps done properly** — Kubernetes, Flux, Kustomize, and the golden paths that make
+  "just merge it" a reasonable deployment strategy.
+- **.NET platforms** — APIs, templates, and the scaffolding that keeps a fleet of services
+  looking like one codebase instead of twenty.
+- **Agentic engineering** — Claude Code plugins, review skills, decision records, and
+  governance for teams handing real work to autonomous agents.
+
+Opinionated about architecture decision records, automated formatters, and anything that
+turns a code review argument into a passing check.
+
+**Toolbox:** .NET · C# · Kubernetes · Flux · Kustomize · Azure · Terraform · Go · Nix · Claude Code
+
+**Reach me:** [git@blairforce1.com](mailto:git@blairforce1.com)
